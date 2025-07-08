@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name     = 'frozendict',
-    version  = '1.2.1-custom',
+    version = "1.2.1.post1"
     url      = 'https://github.com/slezica/python-frozendict',
 
     author       = 'Santiago Lezica',
